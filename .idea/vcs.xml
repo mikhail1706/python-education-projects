@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/asynchronous-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-pydantic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python_oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/typed-python" vcs="Git" />
+  </component>
+</project>

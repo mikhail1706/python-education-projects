@@ -1,0 +1,49 @@
+# Phenix
+/*/migrations/*
+!*/migrations/__init__.py
+
+# Phenix ui
+/phenix-ui/mode_modules
+
+# Django
+*.pyc
+*.cpython-36.pyc
+__pycache__
+logs/*
+backend/static/*
+backend/media/user_avatar/*
+backend/media/restaurants/*
+backend/media/cuisines/*
+backend/media/categories/*
+!backend/media/image_default.png
+
+# PyCharm
+/.idea/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Environments
+venv/
+env/
+.env
+
+# mkdocs documentation
+/site
+
+# Unix socket
+*.sock.lock
+/dialog_flow_private_key.json
+/node_modules/
+
+/resources/**/*.mini.*
+/lib/**/*.mini.*
