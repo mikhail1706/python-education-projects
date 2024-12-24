@@ -1,4 +1,12 @@
-### Python Education Projects
+## Python Education Projects
+
+### Books
+1. Fluent Python 
+
+
+
+
+
 
 1. **Async python**
 2. **Python pydantic**
